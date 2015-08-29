@@ -1,0 +1,21 @@
+{
+  "name": "DenniknMenuApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "menubar": "^2.2.0"
+  },
+  "devDependencies": {
+    "electron-packager": "^5.0.1",
+    "electron-positioner": "^2.0.0",
+    "electron-prebuilt": "0.30.3"
+  },
+  "scripts": {
+    "build": "electron-packager . DenniknMenuApp --platform=all --arch=x64 --version=0.30.3 --ignore=node_modules/(electron-packager|electron)",
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC"
+}
