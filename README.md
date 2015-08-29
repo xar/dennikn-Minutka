@@ -4,6 +4,7 @@ Screenshot: https://dl.dropboxusercontent.com/spa/6piivlofvmd9f3r/n0069y81.png
 
 ## Binaries
 
+**WIN:** soon
 **Mac OSX:** http://vrablik.eu/dnkn/DenniknMenuAppMac.zip
 
 ## Build
